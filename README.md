@@ -1,2 +1,2 @@
-# courses
-Webpage for all courses taken at spatialops
+# OGD 101
+ Opensource GIS Developement 101 course 
