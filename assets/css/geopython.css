@@ -9112,18 +9112,12 @@ a:hover {
 }
 .hero-section {
   position: relative;
-  background: url("../images/course_banner.png") no-repeat center center;
+  background: url("../images/python.jpg") no-repeat center center;
   background-size: cover;
   min-height: 400px;
   color: #fff;
 }
-.hero-section-db {
-  position: relative;
-  background: url("../../assets/images/database.jpg") no-repeat center center;
-  background-size: cover;
-  min-height: 400px;
-  color: #fff;
-}
+
 .hero-section-db .container {
   position: relative;
   z-index: 10;
